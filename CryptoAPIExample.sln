@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoAPIExample", "CryptoAPIExample\CryptoAPIExample.csproj", "{C372DA9C-1220-4129-AA4B-D1AE02DE5AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMH.Auth", "AutoMH.Auth\AutoMH.Auth.csproj", "{3920C4F5-1EC5-49FE-95D4-5AB6C582CDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C372DA9C-1220-4129-AA4B-D1AE02DE5AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C372DA9C-1220-4129-AA4B-D1AE02DE5AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C372DA9C-1220-4129-AA4B-D1AE02DE5AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C372DA9C-1220-4129-AA4B-D1AE02DE5AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3920C4F5-1EC5-49FE-95D4-5AB6C582CDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3920C4F5-1EC5-49FE-95D4-5AB6C582CDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3920C4F5-1EC5-49FE-95D4-5AB6C582CDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3920C4F5-1EC5-49FE-95D4-5AB6C582CDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

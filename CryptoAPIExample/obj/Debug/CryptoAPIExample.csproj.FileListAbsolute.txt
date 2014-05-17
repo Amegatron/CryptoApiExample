@@ -1,0 +1,12 @@
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\CryptoAPIExample.exe.config
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\CryptoAPIExample.exe
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\CryptoAPIExample.pdb
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\AutoMH.Auth.dll
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\Newtonsoft.Json.dll
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\NLog.dll
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\AutoMH.Auth.pdb
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\Newtonsoft.Json.xml
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\bin\Debug\NLog.xml
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\obj\Debug\CryptoAPIExample.csprojResolveAssemblyReference.cache
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\obj\Debug\CryptoAPIExample.exe
+C:\4Personal\Dev\CryptoAPIExample\CryptoAPIExample\obj\Debug\CryptoAPIExample.pdb

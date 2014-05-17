@@ -1,0 +1,9 @@
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\AutoMH.Auth.dll
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\AutoMH.Auth.pdb
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\Newtonsoft.Json.dll
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\NLog.dll
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\Newtonsoft.Json.xml
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\bin\Release\NLog.xml
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\obj\Release\AutoMH.Auth.dll
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\obj\Release\AutoMH.Auth.pdb
+C:\4Personal\Dev\AutoMH\src\AutoMH.Auth\obj\Release\AutoMH.Auth.csprojResolveAssemblyReference.cache
